@@ -59,8 +59,8 @@ class Abhishek:
 
 <div align="center">
 
-<a href="https://github.com/abhishekcodee/Engineering-Intelligence-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekcodee&repo=Engineering-Intelligence-Platform&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/abhishekcodee/RepoReady-Rebuildability-Checker-for-Developers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekcodee&repo=RepoReady-Rebuildability-Checker-for-Developers&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/abhishekcodee/Engineering-Intelligence-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekcodee&repo=Engineering-Intelligence-Platform&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" height="120" /></a>
+<a href="https://github.com/abhishekcodee/RepoReady-Rebuildability-Checker-for-Developers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekcodee&repo=RepoReady-Rebuildability-Checker-for-Developers&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" height="120" /></a>
 
 </div>
 
