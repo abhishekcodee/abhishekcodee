@@ -9,9 +9,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Python+%7C+PHP+%7C+JavaScript+%7C+TypeScript;IoT+%26+Industrial+Automation;Dashboards+%2B+Reporting+Systems;Building+real-world+systems" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishekcodee&label=Profile+views&color=2f81f7&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?logo=github&logoColor=white)](https://github.com/abhishekcodee/my_portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-upadhyay-a20617376/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:amanupadhyay2030@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?logo=vercel&logoColor=white)](https://my-portfolio-eta-three-fl0ewnd99g.vercel.app/)
 
 </div>
 
@@ -56,7 +56,7 @@
 | [**RepoReady**](https://github.com/abhishekcodee/RepoReady-Rebuildability-Checker-for-Developers) | Open-source checker for project rebuildability and configuration | Python |
 | [**Water Consumption Reports**](https://github.com/abhishekcodee/waterConjumptionReports) | Reporting views for water consumption data | HTML |
 | [**PF Reports**](https://github.com/abhishekcodee/pf_Reports) | Report pages for industrial/engineering data | HTML |
-| [**My Portfolio**](https://github.com/abhishekcodee/my_portfolio) | Personal portfolio website | JavaScript |
+| [**My Portfolio**](https://my-portfolio-eta-three-fl0ewnd99g.vercel.app/) ([code](https://github.com/abhishekcodee/my_portfolio)) | Personal portfolio website, live on Vercel | JavaScript |
 
 ---
 
@@ -77,7 +77,7 @@
 
 I'm interested in projects around **IoT dashboards, industrial reporting, automation scripts and web apps**.
 
-📩 **amanupadhyay2030@gmail.com** · 💼 [LinkedIn]([https://www.linkedin.com/in/abhishek-upadhyay-a20617376/])
+📩 **amanupadhyay2030@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-upadhyay-a20617376/)
 
 ---
 
