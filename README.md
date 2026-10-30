@@ -69,22 +69,19 @@ class Abhishek:
   Personal portfolio website, live on Vercel.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-<div align="center">
-
-<a href="https://github.com/abhishekcodee/Engineering-Intelligence-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekcodee&repo=Engineering-Intelligence-Platform&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
-<a href="https://github.com/abhishekcodee/RepoReady-Rebuildability-Checker-for-Developers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekcodee&repo=RepoReady-Rebuildability-Checker-for-Developers&theme=tokyonight&hide_border=true&description_lines_count=2" width="400" /></a>
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekcodee&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekcodee&theme=tokyonight&hide_border=true" width="400" />
+<img src="https://img.shields.io/github/followers/abhishekcodee?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/stars/abhishekcodee?affiliations=OWNER&style=for-the-badge&logo=github&color=8957e5&labelColor=0d1117" alt="Stars" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fabhishekcodee&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=2f81f7&labelColor=0d1117" alt="Public repos" />
 
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekcodee&theme=tokyonight&hide_border=true" width="400" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekcodee&layout=compact&theme=tokyonight&hide_border=true" width="300" />
 
 </div>
